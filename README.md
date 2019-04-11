@@ -1,7 +1,7 @@
 
 ### Android_Bottom_sheets
 _______________________________________
-* See   [activity_main.xml](https://github.com/MoranShalom/Tutorial4_Android_options_menu/blob/master/app/src/main/java/com/example/tutorial4_options_menu/MainActivity.java) 
+* See   [activity_main.xml](https://github.com/MoranShalom/Tutorial6_Android_Button_sheets/blob/master/app/src/main/res/layout/activity_main.xml) 
 for some styling options.
 
 
